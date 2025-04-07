@@ -86,9 +86,7 @@ To compare the effectiveness of the approaches, we use:
 
 ## 🧠 Future Improvements
 
-- Use probabilistic or Bayesian imputation for missing values
 - Explore deep learning models (e.g., autoencoders) for feature reconstruction
-- Expand dataset to include patients from a wider range of age groups and demographics
 
 ## 👥 Authors
 
